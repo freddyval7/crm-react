@@ -2,39 +2,43 @@
   "clientes": [
     {
       "nombre": "Juan",
-      "empresa": "Codigo Con Juan",
+      "empresa": "Codigo CODE",
       "email": "juan@juan.com",
       "telefono": "102013313",
       "notas": "Actualizacion",
       "id": 1
     },
     {
-      "id": 2,
       "nombre": "Karen",
-      "telefono": 138198313,
+      "empresa": "Main Pixel",
       "email": "karen@juan.com",
-      "empresa": "Codigo Con Juan"
+      "telefono": "138198313",
+      "notas": "Actualizado",
+      "id": 2
     },
     {
-      "id": 3,
       "nombre": "Josue",
-      "telefono": 31983913,
+      "empresa": "Microsoft",
       "email": "josue@juan.com",
-      "empresa": "Codigo Con Juan"
+      "telefono": "31983913",
+      "notas": "Bueno",
+      "id": 3
     },
     {
-      "id": 4,
       "nombre": "Miguel",
-      "telefono": 319381983,
+      "empresa": "Minin",
       "email": "miguel@juan.com",
-      "empresa": "Codigo Con Juan"
+      "telefono": "319381983",
+      "notas": "Minin",
+      "id": 4
     },
     {
-      "id": 5,
       "nombre": "Pedro",
-      "telefono": 1398198938,
+      "empresa": "Meta",
       "email": "pedro@juan.com",
-      "empresa": "Codigo Con Juan"
+      "telefono": "1398198938",
+      "notas": "Meta",
+      "id": 5
     },
     {
       "nombre": "Freddy",
